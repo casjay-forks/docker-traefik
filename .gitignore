@@ -1,1 +1,3 @@
 test.sh
+# ignore commit message
+.gitcommit
